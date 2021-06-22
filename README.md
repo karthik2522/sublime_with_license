@@ -22,6 +22,8 @@
     8C8BB2AD B2ECE5A4 EFC08AF2 25A9B864
     ------ END LICENSE ------
    
-    step4: Open sublime Text -> help -> Enter License -> Paste Code here... -> click on Use License
+    step4: Open sublime Text 
+    
+    step5: Goto -> help -> Enter License -> Paste Code here... -> click on Use License
     
 Enjoy!!!!!!!!!!!!
